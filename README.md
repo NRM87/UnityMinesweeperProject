@@ -1,2 +1,3 @@
 # UnityMinesweeperProject
-My recreation of the Minesweeper game in Unity.
+
+The main code is in Assets/TileGen.cs .
