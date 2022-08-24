@@ -8,4 +8,5 @@ There was a stint in time where I was playing lots of minesweeper and I figured 
 Example Solved Board:
 
 ![MinesweeperCloneScreenshot](https://user-images.githubusercontent.com/44685948/186315281-27d4012e-909d-4277-a220-6c64efca0cc7.PNG)
+
 Demo: https://youtu.be/1iD4cy-MMfo
